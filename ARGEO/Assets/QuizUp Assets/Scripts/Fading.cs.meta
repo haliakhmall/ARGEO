@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7acad7aea17bcd441ab8121c7a8148f9
+timeCreated: 1529432312
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeOutTexture: {fileID: 2800000, guid: cd75af5a8184f664ab188fb363b0d729, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
